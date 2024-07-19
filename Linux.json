@@ -1,7 +1,7 @@
 {
-    "serverstatus":"true",
-    "noticemode":"true",
-    "dataclearmode":"true",
+    "serverstatus":"false",
+    "noticemode":"false",
+    "dataclearmode":"false",
     "servermeassage":"Server Under Maintenance 😃",
     "opentime":"Just wait few more times 🙂",
     "libs":"https://github.com/Kunal9608/TDEVMODZ/releases/download/G/libtdev.zip",
